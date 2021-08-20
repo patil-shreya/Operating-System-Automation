@@ -1,0 +1,2 @@
+# Operating-System-Automation
+An Operating System (OS) is an interface between a computer user and computer hardware. Designed a project to automate daily tasks on our operating system which results reducing time consumption. Operating system performs basic tasks such as file, memory and process management, handling input and output, and controlling peripheral devices such as disk drives and printers.Some popular Operating Systems include Linux Operating System, Windows Operating System, VMS, Mac operating system, OS/400, etc.
